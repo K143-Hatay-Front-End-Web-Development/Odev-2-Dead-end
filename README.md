@@ -1,11 +1,15 @@
-# Odev-2
+## Result
 
-## Grup Üyeleri
-- [Ad] [Soyad]
-- [Ad] [Soyad]
+[Play tic tac toe](https://tic-tac-toe-eight-dusky.vercel.app/)
 
-## İçerik
+## Description
 
--  [Figma ve css örneği](https://www.figma.com/file/9WxsY4qgl7Elca9cv9Y5z6/Untitled?node-id=0%3A1)
-- [Ödevin Örnek Videosu](https://www.loom.com/share/f6db31129ce64027b011a872dd91b867)
+- A **React** app for playing a basic **tic-tac-toe game**.
 
+## Authors
+
+- [Erdem Ceylan](https://github.com/erdemxceylan)
+
+- [Meryem Çetinkaya](https://github.com/meryemctnky)
+
+- [Emre Saltabaş](https://github.com/emresaltabas)
