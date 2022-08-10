@@ -4,7 +4,7 @@
 
 ## Description
 
-- A **React** app for playing a basic **tic-tac-toe game**.
+A **React** app for playing a basic **tic-tac-toe game**.
 
 ## Authors
 
